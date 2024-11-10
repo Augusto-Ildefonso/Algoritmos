@@ -7,6 +7,22 @@ Um repositório para armazenar alguns dos principais algoritmos. Todas eles são
 - Bubble-Sort
 - Quick-Sort
 
+## Algoritmos para implementar
+- Ordenação por inserção
+- Shell-sort
+- Ordenação por seleção
+- Heap-Sort
+- Contagem de menores
+- Counting-Sort
+- Radix-Sort
+- Shake-Sort
+- Tree-Sort
+- Bucket-Sort
+- Busca sequencial
+- Busca Binária
+- Busca por Interpolação
+- Hashing
+
 ## Explicações teóricas dos algoritmos
 
 Clique nos links abaixos para ir ao repositório que contém a explicação.
